@@ -1,2 +1,2 @@
-# Calculator
-Simple Calculator Project using HTML, CSS, JS.
+# Face Detection
+Face Detection System
